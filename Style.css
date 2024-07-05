@@ -1,0 +1,79 @@
+bobody
+{
+margin:500;
+}
+
+.mine
+{
+margin:15px;  
+border: 2px;
+border-radius:10px;
+}
+
+
+
+.mine-heading
+{
+  colour:#121212;
+    margin-top:25px;
+   text-align :center ;
+  }
+
+.mine-img
+{
+    display:block;
+    margin-left:auto;
+    margin-right :auto;
+    margin-top:25px;
+    width:380px;
+    border:3px solid #121212
+}
+
+.mine-desc
+{
+    display:block;
+    text-align: center;
+    margin-left:auto;
+    margin-right :auto;
+    width:380px;
+    colour:#121212;
+}
+
+
+.input {
+  border: 3px solid #121212;
+  margin-top: 25px;
+  margin-right :auto;
+  margin-left: auto;
+  text-align: center;
+  padding: 10px #121212;
+  box-sizing: border-box;
+  width: 210px;
+  display: block;
+}
+
+.btn {
+  margin-top: 10px;
+  background: #121212;
+  color: white; 
+  border: 3px solid #121212;
+  text-align: center;
+  padding: 8px 20px;
+  width: 210px;
+  display: block; 
+  margin-right :auto;
+  margin-left: auto;
+  box-sizing: border-box;
+}
+.term
+{
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 25px;
+    
+    
+}
+.term a
+{
+    color: #121212;
+}
